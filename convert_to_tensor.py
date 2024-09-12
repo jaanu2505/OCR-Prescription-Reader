@@ -87,3 +87,4 @@ def main(json_file,immage_dir,label_map_path,output_dir):
         
         #get the list of annotations (bounding boxes)
         annotations= value['regions']
+        #sample comment
